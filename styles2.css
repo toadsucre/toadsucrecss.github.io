@@ -1,0 +1,19 @@
+/*sélécteur {
+	propriété:	valeur;
+}*/
+/* paletton.com */
+
+body {
+	background-image: url(https://www.lescreasderose.fr/wp-content/uploads/2020/03/fond_peluche_undertale_mettaton.jpg);
+	background-size: cover;
+}
+
+
+.titre {
+	color: black;
+	text-align: center;
+	}
+
+.sept {
+	color: black;
+}

@@ -1,0 +1,64 @@
+/*sélécteur {
+	propriété:	valeur;
+}*/
+/* paletton.com */
+
+body {
+	background-image: url(html-color-codes-color-tutorials-hero.jpg);
+	background-size: cover;
+}
+
+h2, button {
+	color: white;
+	text-align: center;
+	border: 10px solid; purple;
+	border-color: darkturquoise;
+	background-color: black;
+}
+
+
+a {
+	color: darkred;
+}
+
+li {
+	list-style: none;
+	display: block;
+}
+
+p {
+
+} 
+
+.je {
+	color: green;
+	border: solid;
+}
+
+.suis {
+	color: red;
+	border: solid;
+}
+
+.haut {
+	color: purple;
+	border: solid;
+}
+
+.en {
+	color: darkcyan;
+	border: solid;
+}
+
+.couleurs {
+	color: blue;
+	border: solid;
+}
+
+img {
+	cursor: pointer;
+}
+
+.sept {
+	color: black;
+}
